@@ -19,8 +19,8 @@ Animal Game for Childrens
 ### Tech Stack
 - [UIKit] - User interface
 - [Storyboard] -
-- [UIAlertController]
-- [UserDefaults]
+- [UIAlertController] - 
+- [UserDefaults] -
 
 ## 🔧 How to Setup
 Just download and run with Xcode.
@@ -50,5 +50,5 @@ Just download and run with Xcode.
 
  [UIKit]: <https://developer.apple.com/documentation/uikit>
  [Storyboard]: <>
- [UIAlertController] : <>
- [UserDefaults] : <>
+ [UIAlertController]: <https://developer.apple.com/documentation/uikit/uialertcontroller>
+ [UserDefaults]: <https://developer.apple.com/documentation/foundation/userdefaults>
